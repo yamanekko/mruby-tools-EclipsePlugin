@@ -1,5 +1,8 @@
 mruby-tools-EclipsePlugin
 =========================
-This in Eclipse plugin for mruby developers.
+This is Eclipse plugin for mruby developers and "mruby on STM32F4Discovery" users.
 
-coming soon!
+You can install the pulugin from the site.
+http://yamanekko.github.io/mruby-tools-EclipsePlugin/
+
+attention: this is beta version.
