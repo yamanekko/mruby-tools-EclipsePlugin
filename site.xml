@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/mrubyTools_1.0.0.201304250010.jar" id="mrubyTools" version="1.0.0.201304250010">
+   <feature url="features/mrubyTools_1.0.0.201310161537.jar" id="mrubyTools" version="1.0.0.201310161537" patch="true">
       <category name="category_mruby"/>
    </feature>
    <category-def name="category_mruby" label="mruby"/>
